@@ -1,0 +1,568 @@
+
+
+.gray {
+  position : relative;
+  
+  width: 92%;
+  height: 95%;
+  background-color: rgb(231, 229, 229);
+  margin: 20px 0 0 50px;
+
+}
+
+
+
+/* 예약구간 */
+.list {
+  position : absolute;
+  width: 100%;
+  height: 25px;
+  margin: 0 auto;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bolder;
+  border-bottom: 2.5px solid gray;
+  padding-bottom: 40px;
+  margin-top: 30px;
+
+
+
+
+}
+
+.list>h1 {
+  display: block;
+}
+
+
+/* ////////////////////////// */
+
+
+
+.marriott>#hotel {
+  position: absolute;
+  width: 240px;
+  margin-top: 220px;
+  margin-left: 60px;
+
+}
+
+
+.calender>#cal {
+  max-width: 100%;
+  max-height: 100%;
+
+}
+
+.first {
+  position : relative;
+  margin-left : 330px;
+  top: 180px;
+  text-align: center;
+  line-height: 60px;
+  
+  display: flex;
+  justify-content: space-between;
+
+  font-size: large;
+  margin-right: 25px;
+
+
+
+}
+.second{  position : relative;
+  margin-left : 330px;
+  top: 200px;
+  text-align: center;
+  line-height: 60px;
+  
+  display: flex;
+  justify-content: space-between;
+
+  font-size: large;
+  margin-right: 25px;
+
+  
+}
+.third{
+  position : relative;
+  margin-left : 330px;
+  top: 220px;
+  text-align: center;
+  line-height: 60px;
+  
+  display: flex;
+  justify-content: space-between;
+
+  font-size: large;
+  margin-right: 25px;
+
+
+}
+.four{
+  position : relative;
+  margin-left : 600px;
+  top: 260px;
+  text-align: center;
+  line-height: 60px;
+  
+  display: flex;
+  justify-content: space-between;
+
+  font-size: large;
+  margin-right: 25px;
+
+  
+}
+
+.homename {
+
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+
+
+  border-radius: 10px;
+
+
+  width: 110px;
+  height: 60px;
+
+
+}
+
+.code {
+
+
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 110px;
+  height: 60px;
+
+
+
+
+}
+
+.number {
+
+
+
+  background-color: rgba(172, 165, 165, 0.356);
+  left: 300px;
+  bottom: 40px;
+  width: 110px;
+  height: 60px;
+
+
+
+}
+
+
+.hotelname1 {
+
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  border-radius: 10px;
+  width: 200px;
+  height: 60px;
+
+
+
+}
+
+.codename1 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 200px;
+  height: 60px;
+
+
+
+  border-radius: 10px;
+
+}
+
+.nuber1 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+  left: 450px;
+  bottom: 220px;
+  width: 200px;
+  height: 60px;
+
+
+
+  border-radius: 10px;
+
+}
+
+.personname {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+
+  border-radius: 10px;
+
+  width: 110px;
+  height: 60px;
+
+
+}
+
+.location {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 110px;
+  height: 60px;
+
+
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-size: large;
+}
+
+.calender {
+  
+
+  
+  width: 110px;
+  height: 60px;
+}
+
+.personname1 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+
+
+  border-radius: 10px;
+
+  width: 280px;
+  height: 60px;
+
+}
+
+.location1 {
+  justify-content: center;
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 280px;
+  height: 60px;
+
+
+  border-radius: 10px;
+
+}
+
+.calender1 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 280px;
+  height: 60px;
+
+
+
+  border-radius: 10px;
+
+}
+
+.cancel {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+ 
+  width: 110px;
+  
+  border-radius: 10px;
+  
+  
+
+}
+.hr{
+  border-bottom: 2.5px solid gray;
+  width: 100%;
+  position: relative;
+  margin-top: 300px;
+}
+
+
+.toyo>#hotel1 {
+  position: absolute;
+  width: 170px;
+  margin-top: 190px;
+  margin-left: 95px;
+  height: 200px;
+
+}
+
+
+.calender10>#cal2 {
+  max-width: 100%;
+  max-height: 100%;
+
+}
+
+.first1 {
+  position : relative;
+  margin-left : 330px;
+  top: 180px;
+  text-align: center;
+  line-height: 60px;
+  
+  display: flex;
+  justify-content: space-between;
+
+  font-size: large;
+  margin-right: 25px;
+
+
+
+}
+.second1{  position : relative;
+  margin-left : 330px;
+  top: 200px;
+  text-align: center;
+  line-height: 60px;
+  
+  display: flex;
+  justify-content: space-between;
+
+  font-size: large;
+  margin-right: 25px;
+
+  
+}
+.third1{
+  position : relative;
+  margin-left : 330px;
+  top: 220px;
+  text-align: center;
+  line-height: 60px;
+  
+  display: flex;
+  justify-content: space-between;
+
+  font-size: large;
+  margin-right: 25px;
+
+
+}
+.four1{
+  position : relative;
+  margin-left : 600px;
+  top: 260px;
+  text-align: center;
+  line-height: 60px;
+  
+  display: flex;
+  justify-content: space-between;
+
+  font-size: large;
+  margin-right: 25px;
+
+  
+}
+
+.homename10 {
+
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+
+
+  border-radius: 10px;
+
+
+  width: 110px;
+  height: 60px;
+
+
+}
+
+.code1 {
+
+
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 110px;
+  height: 60px;
+
+
+
+
+}
+
+.number10 {
+
+
+
+  background-color: rgba(172, 165, 165, 0.356);
+  left: 300px;
+  bottom: 40px;
+  width: 110px;
+  height: 60px;
+
+
+
+}
+
+
+.hotelname10 {
+
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  border-radius: 10px;
+  width: 200px;
+  height: 60px;
+
+
+
+}
+
+.codename10 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 200px;
+  height: 60px;
+
+
+
+  border-radius: 10px;
+
+}
+
+.nuber20 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+  left: 450px;
+  bottom: 220px;
+  width: 200px;
+  height: 60px;
+
+
+
+  border-radius: 10px;
+
+}
+
+.personname10 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+
+  border-radius: 10px;
+
+  width: 110px;
+  height: 60px;
+
+
+}
+
+.location10 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 110px;
+  height: 60px;
+
+
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-size: large;
+}
+
+.calender10 {
+  
+
+  
+  width: 110px;
+  height: 60px;
+}
+
+.personname20 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+
+
+  border-radius: 10px;
+
+  width: 280px;
+  height: 60px;
+
+}
+
+.location20 {
+  justify-content: center;
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 280px;
+  height: 60px;
+
+
+  border-radius: 10px;
+
+}
+
+.calender20 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+  width: 280px;
+  height: 60px;
+
+
+
+  border-radius: 10px;
+
+}
+
+.cancel1 {
+
+  background-color: rgba(172, 165, 165, 0.356);
+
+ 
+  width: 110px;
+  
+  border-radius: 10px;
+  
+  
+
+}
+.hr1{
+ 
+  display: flex;
+  flex-basis: 100%;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.35);
+  font-size: 20px;
+  margin: 8px 0px;
+  margin-top: 300px;
+  
+}
+
+.hr1::before,
+.hr1::after {
+  content: "";
+  flex-grow: 1;
+  background: rgba(0, 0, 0, 0.35);
+  height: 1px;
+  font-size: 0px;
+  line-height: 0px;
+  
+  
+}
+
+
+
